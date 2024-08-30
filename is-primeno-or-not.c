@@ -12,7 +12,8 @@ int main(){
 		}
 	}
 	
-	if(is_prime==0){
+	if(is_prime=
+	=0){
 		printf("this  is prime no");
 	}
 	else
